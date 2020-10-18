@@ -1,0 +1,19 @@
+{
+  "name": "gamba",
+  "version": "1.0.0",
+  "description": "Youtube tutorial by: [Myles Luke](https://github.com/mylesluke/Gamba).\r Creating a website that uses: HTML, BEM, SASS, Sprites, Google Fonts, CSS Grid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mserykh/_gamba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mserykh/_gamba/issues"
+  },
+  "homepage": "https://github.com/mserykh/_gamba#readme"
+}
